@@ -45,7 +45,7 @@ Weaknesses:
 - Examples: Examples should always include the Arabic script and demonstrate the target grammatical structures in Arabic, not just English.
 - Conciseness: While explanations are helpful, the models should strive for conciseness and avoid unnecessary wordiness.
 
-## Suammary
+## Summary
 
 - Mistral is more structured but lacks detailed explanations, making it less useful for learners who need guidance.
 - Gemini provides the most comprehensive explanations, making it the strongest for learning Arabic grammar, though it could be clearer in some aspects.
