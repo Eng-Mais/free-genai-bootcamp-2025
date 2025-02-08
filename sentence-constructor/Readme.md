@@ -1,0 +1,1 @@
+This project will compare prompts between different AI models 
