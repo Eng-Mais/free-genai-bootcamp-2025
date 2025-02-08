@@ -37,6 +37,13 @@ The output will contain 3 parts:
 - remember to not include dialects 
 - do not expand on a clue more than once when asked
 
+## Examples
+
+- The cup is warm: [subject][adjective]
+- Put the dish in the dishwasher: [verb][noune][proposition][location]
+- are you awake? : [question article][pronoun][adjective]
+- This morning, I played basketball : [time][verb][noune]
+
 
 
 student input: did you have lunch today? we can try a new resturant 
