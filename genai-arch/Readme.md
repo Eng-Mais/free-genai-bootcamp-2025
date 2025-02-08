@@ -1,4 +1,4 @@
-## Requirements: 
+## Requirements 
 Hardware:
 - Powerful servers (CPU, RAM, SSD), multiple GPUs, high-bandwidth networking.
 - Servers/cloud instances (CPU, RAM, network), GPUs (optional), load balancers.
@@ -9,7 +9,7 @@ Software:
 - Dialect support, morphological analysis, diacritization handling, and Arabic grammar.
 
 
-## Data Strategy:  
+## Data Strategy
 
 Our data strategy will focus on:
 - Diverse Datasets: Utilizing a wide range of Arabic text and speech data, including various dialects and sources, to train robust and accurate models.
